@@ -1,0 +1,3 @@
+tutajky je obsah suboru 3
+riadok cislo dva
+riadok tri
